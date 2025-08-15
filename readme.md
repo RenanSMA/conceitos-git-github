@@ -39,3 +39,14 @@ git commit -m (mensagem)
 ```
 
 Para Enviar/Baixar arquivos, pastas, etc, em relação a Nuvem. Utiliza-se os comandos "pull" / "push"
+
+Para baixar as alterações que estão apenas no Github, utiliza-se o "pull". <br>
+**NOTA:** Sempre deve baixar a última versão da nuvem antes de enviar a atual do computador.
+```bash
+git pull
+```
+
+Para enviar os commits do PC Local para o Github, utiliza-se o "push".
+```bash
+git push
+```
