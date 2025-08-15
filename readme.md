@@ -50,3 +50,8 @@ Para enviar os commits do PC Local para o Github, utiliza-se o "push".
 ```bash
 git push
 ```
+
+Para baixar o repósitório do Github em um novo computador utilizamos o "clone".
+```bash
+git clone <url_repositorio_github >
+```
